@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "dotenv": "^17.3.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "genai_2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A language model like ChatGPT generates text one token at a time, not all at once.",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffrey-Thomass/GenAi_Stuff2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeffrey-Thomass/GenAi_Stuff2/issues"
+  },
+  "homepage": "https://github.com/Jeffrey-Thomass/GenAi_Stuff2#readme"
+}
